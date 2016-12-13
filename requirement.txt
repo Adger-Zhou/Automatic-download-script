@@ -1,0 +1,4 @@
+oss==2.1.1
+feedparser==5.2.1
+celery==3.1.23
+redis==2.10.5
